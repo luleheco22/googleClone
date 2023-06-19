@@ -1,4 +1,5 @@
 export interface Result {
+    image: any;
     cacheId: string;
     displayLink: string;
     formattedUrl: string;
